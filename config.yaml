@@ -1,0 +1,7 @@
+DB:
+  Postgres:
+    Host: localhost
+    Port: 5000
+    Database: mascot
+    User: mascot-user
+    Password: password
